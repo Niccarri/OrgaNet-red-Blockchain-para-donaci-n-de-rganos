@@ -52,7 +52,8 @@ Antes de comenzar, cada usuario que quiera probar el sistema debe tener:
 1. Abrí el archivo `Web/script.js`.  
 2. Buscá esta línea:
    ```js
-   const CONTRACT_ADDRESS = "0xPEGAAQUI_TU_CONTRATO";
+   const CONTRACT_ADDRESS = "0xPEGA_AQUI_TU_CONTRATO";
+   const privateKey = "PEGA_AQUI";
    ```
 3. Pegá ahí la **dirección real** del contrato que obtuviste en Remix.  
 4. Guardá los cambios.
