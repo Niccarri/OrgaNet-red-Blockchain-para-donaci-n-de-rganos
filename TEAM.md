@@ -23,7 +23,7 @@ Co-fundadora y colaboradora en la documentación, comunicación institucional y 
 ## 🔗 Fundador
 **Tomas Lizer**
 🔗 [LinkedIn](https://www.linkedin.com/in/tomas-lizer/)
-Co-fundadora y colaboradora en la documentación, comunicación institucional y desarrollo conceptual del proyecto.
+Co-fundador y colaborador en la documentación, comunicación institucional y desarrollo conceptual del proyecto.
 
 ---
 
